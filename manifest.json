@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "New Personality",
+  "description": "This extension helps you improve your move based on the text you send us!",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html",
+    "default_title": "Click here!",
+    "default_popup": "homepage.html"
+  }
+}
